@@ -1,0 +1,33 @@
+ManifestFileVersion: 0
+CRC: 1788320670
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: b8a3fae07b70fa1938bb1293ca4d6e9f
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 0f9fba26cbb38215f317d1fd6b1954a0
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: b8a3fae07b70fa1938bb1293ca4d6e9f
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Environment/Prefabs/Rock 1.prefab
+- Assets/Environment/Prefabs/Trees.prefab
+Dependencies: []

@@ -1,0 +1,1 @@
+2024-12-30 11:44:17.590 22824 22875 Info System.out get the name here com.DefaultCompany.AndroidStuff Time: 852470ms
