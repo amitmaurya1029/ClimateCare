@@ -33,7 +33,7 @@ public class EnvironmentDamageCalculator : MonoBehaviour
     {
         float t = CovertAppUsageTimeToHour();
         
-
+        Debug.Log("Get the total app time in hour : " + t);
         if (t >= 2 && t <= 3)
         {
             Debug.Log(" here is the vale : " + t);
@@ -70,7 +70,7 @@ public class EnvironmentDamageCalculator : MonoBehaviour
             Debug.Log(" here is the vale : " + t);
             return 15;
         }
-        if (t >= 9 && t <= 10)
+        if (t >= 9 && t <= 22)
         {
             Debug.Log(" here is the vale : " + t);
             return 10;

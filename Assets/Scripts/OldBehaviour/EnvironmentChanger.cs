@@ -47,6 +47,7 @@ public class EnvironmentChanger : MonoBehaviour
     {
         yield return new WaitForSeconds(edc.DamageTime());
         canChangePalne = true;
+        Debug.Log("Changing environment here : " + edc.DamageTime());
         // yield return new WaitForSeconds(.05f);
          canChangeDroughtPlane = true;
     }
